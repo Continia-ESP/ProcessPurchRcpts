@@ -1,0 +1,1644 @@
+<Data>
+  <Table TableNo="6085575">
+    <Record Field1="CREARPC" Field2="Crear nuevos pedidos de compra" Field3="23" Field5="0" Field6="0" Field10="0" Field11="0" Field12="1" Field13="true" Field14="true" Field15="1" Field16="300" Field18="true" Field21="0" Field25="false" Field26="1" Field27="2" Field29="38" Field30="39" Field31="true" Field32="3" Field33="1" Field39="0" Field45="false" Field50="6085749" Field53="{7342A4F3-21ED-4843-B6FF-E07027704D50}" Field55="false" Field56="6085760" Field58="6085764" Field60="0" Field61="0" Field62="0" Field64="false" Field66="false" Field67="false" Field68="false" Field70="6085618" Field72="6085621" Field74="6085577" Field76="false" Field78="200" Field79="1252" Field90="true" Field110="false" Field120="0">
+    </Record>
+  </Table>
+  <Table TableNo="6085759">
+    <Record Field1="CREARPC" Field2="23" Field3="2" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="4" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="5" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="6" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="7" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="9" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="22" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="86" Field5="5">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="102" Field5="1">
+    </Record>
+    <Record Field1="CREARPC" Field2="23" Field3="103" Field5="1">
+    </Record>
+  </Table>
+  <Table TableNo="6085579">
+    <Record Field1="CREARPC-ES" Field2="CREARPC" Field6="true" Field7="2" Field8="6085703" Field9="0" Field10="Principal - ES" Field12="6085704" Field13="6085705" Field14="6085706" Field22="6085708" Field24="ESP" Field25="6085710" Field27="6085581" Field29="false" Field30="1" Field31="0" Field32="0" Field35="true" Field36="6085716" Field39="false" Field40="false" Field41="2" Field42="0" Field44="false" Field45="0" Field100="false" Field101="1" Field102="true" Field103="true" Field104="1" Field105="0" Field106="0" Field107="0" Field108="0" Field109="0" Field110="0" Field112="1" Field113="0" Field115="false" Field116="1" Field118="false" Field120="false" Field122="0" Field123="false" Field124="1" Field300="0" Field301="0" Field302="false" Field303="0" Field304="0" Field305="0" Field306="0" Field400="0">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="CREARPC" Field6="false" Field7="1" Field8="6085702" Field9="0" Field10="Sistema - Identificación" Field12="0" Field13="0" Field14="0" Field22="0" Field24="ESP" Field25="0" Field27="0" Field29="false" Field30="0" Field31="0" Field32="0" Field35="false" Field36="0" Field39="false" Field40="false" Field41="2" Field42="0" Field44="false" Field45="0" Field100="false" Field101="0" Field102="false" Field103="false" Field104="0" Field105="0" Field106="0" Field107="0" Field108="0" Field109="0" Field110="0" Field112="0" Field113="0" Field115="false" Field116="0" Field118="false" Field120="false" Field122="0" Field123="false" Field124="0" Field300="0" Field301="0" Field302="false" Field303="0" Field304="0" Field305="0" Field306="0" Field400="0">
+    </Record>
+  </Table>
+  <Table TableNo="6085580">
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="1" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="111" Field32="Total IVA Excl." Field33="3" Field34="true" Field39="0" Field41="0" Field43="6085730" Field46="GLACCOUNTNO" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{A42EF7A1-B679-4D3B-9A76-E38550865848}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="1" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="211" Field32="Total IVA Incl." Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{810D2B48-F6B3-4BAA-86C5-EE9AF37DD40F}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="121" Field32="Total IVA Excl.2" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{9224A97B-4981-45F8-9713-A46615E085DB}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="126" Field32="Total IVA Excl.3" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{A1AE0367-A56C-4D3A-817A-DBC72F82D5B7}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="131" Field32="Total IVA Excl.4" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{968CAB7E-4ADE-46EF-B47D-941E839E0EBA}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="APPROVALFLOW" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENA" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="271" Field32="Flujo aprobación" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="6085725" Field55="{1B6CDAF8-2384-44EE-9041-9AE283981742}" Field56="1" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CECO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="11" Field32="Centro de coste" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{B44B191C-6743-40D7-9A32-B7C3FE808A22}" Field56="0" Field57="0" Field60="40" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="8" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="71" Field32="Código divisa" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085730" Field47="0" Field49="0" Field52="0" Field53="4" Field55="{76346F49-6B6F-4821-BCBD-209D28247371}" Field56="1" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCDATE" Field4="2" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="100" Field28="true" Field29="0" Field30="true" Field31="41" Field32="Fecha factura" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085719" Field47="0" Field49="0" Field52="1" Field53="0" Field55="{B5423CDA-11AA-4EDF-859A-F9EF536EC485}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="0" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="21" Field32="Nº factura" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{2127ED78-39D1-4B10-8892-1E14A01B8F6C}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="true" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCTYPE" Field4="0" Field5="true" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field12="F" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="false" Field27="0" Field28="true" Field29="0" Field30="true" Field31="351" Field32="[F]actura / [A]bono" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085769" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{6DA79D60-624E-4072-AE2D-16E8F5170D22}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DUEDATE" Field4="2" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="100" Field28="true" Field29="0" Field30="true" Field31="61" Field32="Fecha vencimiento" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="1" Field53="0" Field55="{770840D8-68B8-4C73-A0A5-90416B8622D2}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="151" Field32="Importe transporte" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="2" Field48="AMOUNTEXCLVAT" Field49="0" Field52="0" Field53="0" Field55="{785EA85D-57B6-4741-AECD-F23484674359}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="221" Field32="Nº cuenta G/L" Field33="0" Field34="false" Field39="6085737" Field41="6085736" Field43="6085713" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{DE547F1C-AB7E-42A1-AAF6-76EE4C3D492C}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="HDRDESC2" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="301" Field32="Descripción 2" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{27BCA0A5-196E-461D-B95E-877168DF4AF8}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="HDRDESC3" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="311" Field32="Descripción 3" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{1BD98B17-A218-490C-835E-4032B96A22E4}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="INVHDRPOSTINDESC" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="281" Field32="Desc. de registro de cabecera de factura" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{C6830AAA-5A8F-4EFB-90A3-E3611A72EFE9}" Field56="0" Field57="22" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="JOBNO" Field4="8" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="81" Field32="Nº proyecto" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="167" Field55="{955FCF88-52AC-458C-96AD-5CC80CA504BB}" Field56="1" Field57="0" Field60="45" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="NOSERIES" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="10" Field32="Nos. serie" Field33="0" Field34="false" Field39="6085805" Field41="6085806" Field43="0" Field47="0" Field49="0" Field52="0" Field53="308" Field55="{4F0BEE55-4EB2-447E-BD4A-490417FBC914}" Field56="1" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="NUMALB" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="352" Field32="Nº Albarán Prov" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{475BE70A-45B5-4A73-88C4-5D27FFE39268}" Field56="0" Field57="67" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="64" Field32="Nº pedido" Field33="0" Field34="false" Field39="0" Field41="6085714" Field43="6085730" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{C2ABAA30-9F1F-4182-8E12-3BC2D9836C87}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="POSTINGDESC" Field4="0" Field5="false" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="true" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="291" Field32="Descripción de registro" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{A91E2D3A-183A-4264-99A8-40F75DA53F3B}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="RESPCENTER" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="161" Field32="Centro responsabilidad" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{97241BF3-C5ED-4C1A-B175-CBA8F3C0719C}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="201" Field32="Importe IVA" Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{9FC242D7-7837-4515-8840-A9E203D8AE96}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="DAN" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="331" Field32="VAT No." Field33="0" Field34="false" Field39="6085832" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{D85CF25E-3CA8-4ECB-88B3-349D07C2ADC5}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VENDORBANKACC" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="321" Field32="No. cuenta bancaria del proveedor" Field33="0" Field34="false" Field39="6085831" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{9C017774-1AB5-4CBF-AE1C-7C28F2F37AC4}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VENDORORDERNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="66" Field32="Nº pedido proveedor" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{5E249CA0-BD0F-4CCD-BCDA-2C22708CAA4F}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VENDORSHPNO" Field4="0" Field5="true" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="31" Field32="Nº albarán proveedor" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{B6B388C1-896D-4189-BC18-4E3595B7B88F}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="171" Field32="Importe a tipo 0" Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{14562674-9078-4D24-9756-364C50A251F8}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DESC" Field4="0" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="21" Field32="Descripción" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{B7221312-CEFE-403B-BA1E-AF35D42F3E7F}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DESC2" Field4="0" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="31" Field32="Descripción 2" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{33C2627D-9C9D-4EC6-969D-6D8A0C3AB21F}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DESC3" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENU" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="41" Field32="Descripción 3" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{E72477BF-6BD6-4609-899B-EE35656ECBC5}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="1" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="161" Field32="Importe dto." Field33="0" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{3E72744D-47D2-4899-A1AB-99FB51400247}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="1" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="0:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="121" Field32="% dto." Field33="0" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{B64F781B-1A89-4CC3-8248-B2596F23C86C}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="1" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="171" Field32="Importe línea" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{FBBEBC95-E3A5-41B7-BDBD-BBF88D441803}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="0" Field5="true" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="10" Field32="Nº" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{0B7908EA-D21E-4E6A-9FC7-F51C57E1CB35}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="51" Field32="Nº pedido" Field33="0" Field34="false" Field39="0" Field41="6085714" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{01D4699D-695A-4CA8-A9BB-BA307B2018F2}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="1" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="0:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="61" Field32="Cantidad" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{35BC8971-1B1A-4DE7-A0F6-F6B484823C2E}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="1" Field5="false" Field6="false" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="81" Field32="Coste unidad" Field33="0" Field34="true" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{4EB2B7EA-25DD-44E0-AA0A-7A0FB757F75C}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="VATPRODPOSTGRP" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="11" Field32="VAT Prod. Posting Group" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="324" Field55="{2DAFECB5-80AC-4F6A-A836-CB0EB7387E57}" Field56="1" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="false" Field27="200" Field28="false" Field29="0" Field30="true" Field31="2" Field32="Identificación fiscal" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="6085717" Field52="0" Field53="0" Field55="{6CE2D1D9-EB97-4F63-8AD9-F1CD9BA00750}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+  </Table>
+  <Table TableNo="6085581">
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="Total IVA Excl." Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="20000" Field5="Importe sin IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="30000" Field5="Sub-total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="40000" Field5="Sub Total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="50000" Field5="Subtotal" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="60000" Field5="Base" Field6="0" Field7="0" Field8="0" Field9="0" Field10="4">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="Total IVA Incl." Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="20000" Field5="Importe con IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="30000" Field5="Total importe" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="40000" Field5="Total factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="50000" Field5="Importe total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="60000" Field5="Total abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="70000" Field5="A pagar" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="80000" Field5="Total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="Moneda" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="20000" Field5="Divisa" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCDATE" Field4="10000" Field5="Fecha documento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCDATE" Field4="20000" Field5="Fecha factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCDATE" Field4="30000" Field5="Fecha" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="10000" Field5="Num factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5="Invoice No." Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="30000" Field5="Nº factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="40000" Field5="Nº abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="50000" Field5="Factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="60000" Field5="Número" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="70000" Field5="Abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCTYPE" Field4="10000" Field5="F: Factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCTYPE" Field4="20000" Field5="A: Abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DUEDATE" Field4="10000" Field5="Fecha vencimiento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="17">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DUEDATE" Field4="20000" Field5="Vencimiento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DUEDATE" Field4="30000" Field5="Fecha pago" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DUEDATE" Field4="40000" Field5="vto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="10000" Field5="Gastos transporte" Field6="0" Field7="0" Field8="0" Field9="0" Field10="17">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="20000" Field5="Transporte" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="10000" Field5="Cuenta" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="JOBNO" Field4="10000" Field5="Proyecto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="10000" Field5="Ref. interna" Field6="0" Field7="0" Field8="0" Field9="0" Field10="12">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="20000" Field5="Referencia" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="30000" Field5="Nº pedido" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="RESPCENTER" Field4="10000" Field5="Centro responsabilidad" Field6="0" Field7="0" Field8="0" Field9="0" Field10="22">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="RESPCENTER" Field4="20000" Field5="Centro" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="Importe IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="20000" Field5="I.V.A." Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="30000" Field5="21.00%" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="40000" Field5="IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="50000" Field5="21%" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="10000" Field5="Sin IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="20000" Field5="Exento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="10000" Field5="Dto factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="10000" Field5="Dto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="10000" Field5="Importe Línea" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="20000" Field5="Importe" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="10000" Field5="Código producto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="20000" Field5="Código artículo" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="30000" Field5="Código" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="10000" Field5="Ref. interna" Field6="0" Field7="0" Field8="0" Field9="0" Field10="12">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="20000" Field5="Referencia" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="30000" Field5="Nº pedido" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="10000" Field5="Unidades" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="20000" Field5="Cantidad" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="30000" Field5="Cdad." Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="40000" Field5="Ud." Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="10000" Field5="Coste unitario" Field6="0" Field7="0" Field8="0" Field9="0" Field10="14">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="20000" Field5="Coste" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="N.I.F." Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="C.I.F" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="30000" Field5="NIF" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="40000" Field5="CIF" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+  </Table>
+  <Table TableNo="6085582">
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT2" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT3" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMT4" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="10000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="25000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="5000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="OURDOCNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DESC" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DESC" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="25000" Field5="%" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="DISCPCT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="LINEAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="NO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="10000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="20000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="ORDERNO" Field4="30000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="20000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="30000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="40000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="50000" Field5="STK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="60000" Field5="STK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="70000" Field5="stk." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="80000" Field5="stk" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="90000" Field5="PCS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="100000" Field5="PCS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="110000" Field5="pcs." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="QUANTITY" Field4="120000" Field5="pcs" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="170000" Field5="GBP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="180000" Field5="GBP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="1" Field3="UNITCOST" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="-" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="." Field7="false">
+    </Record>
+  </Table>
+  <Table TableNo="6085583">
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="[A-Z]{3}" Field6="3 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5="[0-9]{3}" Field6="3 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="30000" Field5="[0-9]{4}" Field6="4 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="40000" Field5="[0-9]{5}" Field6="5 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="50000" Field5="[0-9]{6}" Field6="6 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="60000" Field5="[0-9]{7}" Field6="7 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="70000" Field5="[0-9]{8}" Field6="8 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="80000" Field5="[0-9]{9}" Field6="9 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCNO" Field4="90000" Field5="[0-9]{10}" Field6="10 números" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCTYPE" Field4="10000" Field5="A" Field6="Abono" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="DOCTYPE" Field4="20000" Field5="F" Field6="Factura" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="(AL)?[J-K]{1}[0-9]{8}[A-Z]{1}" Field6="Albania" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="(AR)?[0-9]{11}" Field6="Argentina" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="30000" Field5="(AU)?[0-9]{11}" Field6="Australia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="40000" Field5="(ATU)?[0-9]{9}" Field6="Austria" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="50000" Field5="(BY)?[0-9]{9}" Field6="Belarus" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="60000" Field5="(BE)?0[0-9]{9}" Field6="Belgium" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="70000" Field5="(BR)?[0-9]{14}" Field6="Brasil" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="80000" Field5="(BG)?[0-9]{9,10}" Field6="Bulgaria" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="90000" Field5="(CA)?[0-9A-Z]{15}" Field6="Canada" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="100000" Field5="(CL)?[0-9]{9}" Field6="Chile" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="110000" Field5="(HR)?[0-9]{11}" Field6="Croatia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="120000" Field5="(BG)?[0-9A-Z]{9}" Field6="Cyprus" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="130000" Field5="(CZ)?[0-9]{8,9,10}" Field6="Czech Republic" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="140000" Field5="(DK)?[0-9]{8}" Field6="Denmark" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="150000" Field5="(EC)?[0-9]{13}" Field6="Ecuador" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="160000" Field5="(ES)?[0-9]{9}" Field6="Estonia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="170000" Field5="(FI)?[0-9]{8}" Field6="Finland" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="180000" Field5="(FR)?[0-9A-Z]{11}" Field6="France" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="190000" Field5="(DE)?[0-9]{9}" Field6="Germany" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="200000" Field5="(EL)?[0-9]{9}" Field6="Greece" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="210000" Field5="(GT)?[0-9]{8}" Field6="Guatemala" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="220000" Field5="(HU)?[0-9]{8}" Field6="Hungary" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="225000" Field5="(IS)?[0-9]{5,6}" Field6="Iceland" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="230000" Field5="(IE)?[0-9]{1}[A-Z]{1}[0-9]{5}[A-Z]{1}" Field6="Ireland" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="240000" Field5="(IT)?[0-9]{11}" Field6="Italy" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="250000" Field5="(LV)?[0-9]{11}" Field6="Latvia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="260000" Field5="(LT)?[0-9]{9,11}" Field6="Lithuania" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="270000" Field5="(LU)?[0-9]{8}" Field6="Luxembourg" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="280000" Field5="(MT)?[0-9]{8}" Field6="Malta" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="290000" Field5="(MX)?[0-9]{12}" Field6="Mexico" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="300000" Field5="(NL)?[0-9A-Z]{12}" Field6="Netherlands" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="310000" Field5="(NO)?[0-9]{9}" Field6="Norway" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="320000" Field5="(PH)?[0-9]{12}" Field6="Philippines" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="330000" Field5="(PL)?[0-9]{10}" Field6="Poland" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="340000" Field5="(PT)?[0-9]{9}" Field6="Portugal" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="350000" Field5="(PL)?[0-9]{2,3,4,5,6,7,8,9,10}" Field6="Romania" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="360000" Field5="(RU)?[0-9]{10}" Field6="Russia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="370000" Field5="(SM)?[0-9]{5}" Field6="San Marino" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="380000" Field5="(SK)?[0-9]{10}" Field6="Slovakia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="390000" Field5="(SI)?[0-9]{8}" Field6="Slovenia" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="400000" Field5="(ES)?[0-9A-Z]{1}[0-9]{7}[0-9A-Z]{1}" Field6="Spain" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="410000" Field5="(SE)?[0-9]{10}01" Field6="Sweden" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="420000" Field5="(SM)?[0-9]{6}" Field6="Switzerland" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="430000" Field5="(TR)?[0-9]{10}" Field6="Turkey" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="440000" Field5="(UA)?[0-9]{12}" Field6="Ukraine" Field7="false">
+    </Record>
+    <Record Field1="CREARPC-ID" Field2="0" Field3="VATREGNO" Field4="450000" Field5="(GB)?[0-9]{9,10,11,12}" Field6="United Kingdom" Field7="false">
+    </Record>
+  </Table>
+</Data>
